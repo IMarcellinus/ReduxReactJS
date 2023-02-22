@@ -1,3 +1,5 @@
+# Penjelasan [Redux di ReactJS](https://www.buildwithangga.com/tips/mulai-menggunakan-redux-pada-reactjs).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
